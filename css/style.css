@@ -1,0 +1,43 @@
+body {
+  background-image: url("../images/IndianPatternBackground.jpg");
+}
+
+.container {
+  background-color: white;
+}
+
+.img-thumbnail {
+  margin-left: 15px;
+}
+
+
+#accordion {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+h1, h2 {
+  text-align: center;
+  color: orange;
+}
+
+.imgSizer{
+  max-height: 500px;
+  object-fit: contain;
+
+}
+.map-and-address{
+  float:left;
+}
+.RIMYI{
+  float:right;
+}
+
+.social-media {
+  float: right;
+}
+
+a {
+  color:orange;
+}
